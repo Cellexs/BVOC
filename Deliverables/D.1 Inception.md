@@ -8,21 +8,21 @@ For instance a change of phone number or address will notify those following to 
 * Our consumer segement is social media users with large groups of people they want to stay updated about
 
 # Interviews summary
-* Interview 1 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
+1. Interview 1 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
 
-* Interview 2
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
+2. Interview 2
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
  
 * Interview 3 
  * Interviewee Name: 
