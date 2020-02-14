@@ -14,7 +14,8 @@ For instance a change of phone number or address will notify those following to 
    * Consumer Segement: 
    * Key Insights: 
    * Representative Quote: 
-   * Hypotheses Validated: 
+   * Hypotheses Validated:
+   * Assessment: Must have / Nice to have / Don’t care:
 
 2. Interview 2
    * Interviewee Name: 
@@ -23,62 +24,68 @@ For instance a change of phone number or address will notify those following to 
    * Key Insights: 
    * Representative Quote: 
    * Hypotheses Validated: 
+   * Assessment: Must have / Nice to have / Don’t care:   
  
-* Interview 3 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
+3. Interview 3 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated:
+   * Assessment: Must have / Nice to have / Don’t care:
+4. Interview 4 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
+   * Assessment: Must have / Nice to have / Don’t care:
  
-* Interview 4 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
+5. Interview 5 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
+   * Assessment: Must have / Nice to have / Don’t care:
  
-* Interview 5 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
+6. Interview 6 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
+   * Assessment: Must have / Nice to have / Don’t care:
  
-* Interview 6 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
+7. Interview 7 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
+   * Assessment: Must have / Nice to have / Don’t care:
  
-* Interview 7 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
+8. Interview 8 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
+   * Assessment: Must have / Nice to have / Don’t care:
  
-* Interview 8 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
- 
-* Interview 9 
- * Interviewee Name: 
- * Interview Date: 
- * Consumer Segement: 
- * Key Insights: 
- * Representative Quote: 
- * Hypotheses Validated: 
- * Hypotheses Validated: 
+9. Interview 9 
+   * Interviewee Name: 
+   * Interview Date: 
+   * Consumer Segement: 
+   * Key Insights: 
+   * Representative Quote: 
+   * Hypotheses Validated: 
+   * Assessment: Must have / Nice to have / Don’t care:
  
 # Final value proposition and consumer segments
