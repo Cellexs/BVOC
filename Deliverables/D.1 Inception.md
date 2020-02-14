@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 * BVOC is a software that provides a more attention free version of social media. It allows users to add eachother and for each 
 user to create an account of their own, which if they update, will inform all users following that account about the change. 
 For instance a change of phone number or address will notify those following to the new location or number.
