@@ -8,7 +8,7 @@ For instance a change of phone number or address will notify those following to 
 * Our consumer segement is social media users with large groups of people they want to stay updated about
 
 # Interviews summary
-*Interview 1 
+* Interview 1 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -16,7 +16,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
 
-*Interview 2
+* Interview 2
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -24,7 +24,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
  
- *Interview 3 
+* Interview 3 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -32,7 +32,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
  
- *Interview 4 
+* Interview 4 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -40,7 +40,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
  
- *Interview 5 
+* Interview 5 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -48,7 +48,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
  
- *Interview 6 
+* Interview 6 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -56,7 +56,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
  
- *Interview 7 
+* Interview 7 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -64,7 +64,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
  
- *Interview 8 
+* Interview 8 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -72,7 +72,7 @@ For instance a change of phone number or address will notify those following to 
  * Representative Quote: 
  * Hypotheses Validated: 
  
- *Interview 9 
+* Interview 9 
  * Interviewee Name: 
  * Interview Date: 
  * Consumer Segement: 
@@ -81,4 +81,4 @@ For instance a change of phone number or address will notify those following to 
  * Hypotheses Validated: 
  * Hypotheses Validated: 
  
-Final value proposition and consumer segments
+# Final value proposition and consumer segments
