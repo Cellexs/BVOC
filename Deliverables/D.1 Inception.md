@@ -63,22 +63,26 @@ For instance a change of phone number or address will notify those following to 
    * Assessment: Must have / Nice to have / Don’t care:
  
 7. Interview 7 Anas 
-   * Interviewee Name: 
-   * Interview Date: 
-   * Consumer Segement: 
+   * Interviewee Name: Anas / Waleed, Marzouq 
+   * Interview Date: Feb 16, 2020
+   * Consumer Segement: 18 and over 
    * Key Insights: 
-   * Representative Quote: 
-   * Hypotheses Validated: 
-   * Assessment: Must have / Nice to have / Don’t care:
+    To be able to sort that information your like to see 
+    To be able to edit your post or your message
+   * Representative Quote: " flexibility is the secret of success "
+   * Hypotheses Validated: easy to get access to others
+   * Assessment: must be able to block people if you get annoyed by them
+
  
 8. Interview 8 Anas
-   * Interviewee Name: 
-   * Interview Date: 
-   * Consumer Segement: 
+  * Interviewee Name: Anas / Rachel 
+   * Interview Date: Feb 16, 2020
+   * Consumer Segement: 18 and over 
    * Key Insights: 
-   * Representative Quote: 
-   * Hypotheses Validated: 
-   * Assessment: Must have / Nice to have / Don’t care:
+   Age instruction protection which allowed people to keep over 18 age posted hidden from teenagers. 
+   could be use without Wi-Fi connection
+   app were to delete numbers of contacts that I have not reached out within a 6 month period of time
+
  
 9. Interview 9 (Aziz)
    * Interviewee Name: Turki Radhwan
