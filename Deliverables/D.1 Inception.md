@@ -27,31 +27,31 @@ For instance a change of phone number or address will notify those following to 
    * Assessment: Nice to have: Ways to share music with others easily
  
 3. Interview 3 (Chris)
-   * Interviewee Name: 
+   * Interviewee Name: Chris Wolven
    * Interview Date: 2/16/20
-   * Consumer Segement: 
-   * Key Insights: 
-   * Representative Quote: 
-   * Hypotheses Validated:
-   * Assessment: Must have / Nice to have / Don’t care:
+   * Consumer Segement: 24 - 36 years old
+   * Key Insights: Doesnt struggle with keeping data organized, not a big social media user
+   * Representative Quote: "definately birthday reminders"
+   * Hypotheses Validated: There is a desire for being updated on information, but in this case the user is indifferent to the change
+   * Assessment: Must have: Convenient Birthday Reminders 
    
 4. Interview 4 (Chris) 
-   * Interviewee Name: 
+   * Interviewee Name: Adam Tatlock
    * Interview Date: 2/16/20
-   * Consumer Segement: 
-   * Key Insights: 
-   * Representative Quote: 
+   * Consumer Segement: 24 - 36 years old
+   * Key Insights: Only significant changes are wanted, but users shoudl define significance
+   * Representative Quote: "sometimes, the organizing can be hard espically something liek twitter where it sorts more popular users over most recent post" 
    * Hypotheses Validated: 
    * Assessment: Must have / Nice to have / Don’t care:
  
 5. Interview 5 (Jakob)
    * Interviewee Name: 
    * Interview Date: 2/16/20
-   * Consumer Segement: 
-   * Key Insights: 
-   * Representative Quote: 
-   * Hypotheses Validated: 
-   * Assessment: Must have / Nice to have / Don’t care:
+   * Consumer Segement: 24 - 36 years old
+   * Key Insights: There is currently too much information at once in social media apps
+   * Representative Quote: "sometimes, the organizing can be hard espically something liek twitter where it sorts more popular users over most recent post"
+   * Hypotheses Validated: There is a desire for being updated on information but only significant information
+   * Assessment: Don’t care: To see information of everyone at once, make settings for specific groups like friends and family
  
 6. Interview 6 (Jakob) 
    * Interviewee Name: 
