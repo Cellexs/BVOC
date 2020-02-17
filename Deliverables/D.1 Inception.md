@@ -95,5 +95,5 @@ For instance a change of phone number or address will notify those following to 
 
  
 # Final Value Proposition and Consumer Segments
-* Our value proposition is that BVOC provides an easier and more automated social media platform with user customized organization
+* Our value proposition is that BVOC provides an easier and more automated social media platform to users with large amounts of followers or that desire organization through user customized group organization of a feed
 * Our consumer segement is social media users with large groups of people they want to stay updated about, and users that want a more organized and streamlined feed
