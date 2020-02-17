@@ -80,13 +80,14 @@ For instance a change of phone number or address will notify those following to 
    * Hypotheses Validated: 
    * Assessment: Must have / Nice to have / Don’t care:
  
-9. Interview 9 
-   * Interviewee Name: 
-   * Interview Date: 
-   * Consumer Segement: 
-   * Key Insights: 
-   * Representative Quote: 
-   * Hypotheses Validated: 
-   * Assessment: Must have / Nice to have / Don’t care:
+9. Interview 9 (Aziz)
+   * Interviewee Name: Turki Radhwan
+   * Interview Date: 2/15/2020
+   * Consumer Segement: 18-24
+   * Key Insights: Deleting more than one contact at a time.
+   * Representative Quote: “Secured app that keeps personal information safe”
+   * Hypotheses Validated: Being updated when information change. 
+   * Assessment:Nice to have: Ability to add a wishlist.
+
  
 # Final Value Proposition and Consumer Segments
