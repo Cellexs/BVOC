@@ -11,7 +11,7 @@ For instance a change of phone number or address will notify those following to 
 1. Interview 1 (Chris)
    * Interviewee Name: Lucas Abedrabbo 
    * Interview Date: 2/16/20
-   * Consumer Segement: 18 - 24 years of age
+   * Consumer Segement: 18 - 26 years of age
    * Key Insights: Lack of motivation to use social media
    * Representative Quote: "For more info given by a contact to be noted"
    * Hypotheses Validated: There is a desire for being updated on information
@@ -20,7 +20,7 @@ For instance a change of phone number or address will notify those following to 
 2. Interview 2 (Chris)
    * Interviewee Name: Konnor Williams
    * Interview Date: 2/16/20
-   * Consumer Segement: 18 - 24 years
+   * Consumer Segement: 18 - 26 years
    * Key Insights: Sorting the contacts into groups
    * Representative Quote: "folder for people, like friends or a families folder"
    * Hypotheses Validated: There is a desire for being updated on information
@@ -38,29 +38,29 @@ For instance a change of phone number or address will notify those following to 
 4. Interview 4 (Chris) 
    * Interviewee Name: Adam Tatlock
    * Interview Date: 2/16/20
-   * Consumer Segement: 24 - 36 years old
-   * Key Insights: Only significant changes are wanted, but users shoudl define significance
-   * Representative Quote: "sometimes, the organizing can be hard espically something liek twitter where it sorts more popular users over most recent post" 
-   * Hypotheses Validated: 
-   * Assessment: Must have / Nice to have / Don’t care:
- 
-5. Interview 5 (Jakob)
-   * Interviewee Name: 
-   * Interview Date: 2/16/20
-   * Consumer Segement: 24 - 36 years old
-   * Key Insights: There is currently too much information at once in social media apps
-   * Representative Quote: "sometimes, the organizing can be hard espically something liek twitter where it sorts more popular users over most recent post"
+   * Consumer Segement: 26 - 36 years old
+   * Key Insights: Make group organization I can easily turn on and off
+   * Representative Quote: "sometimes, the organizing can be hard especially something like twitter where it sorts more popular users over most recent post" 
    * Hypotheses Validated: There is a desire for being updated on information but only significant information
    * Assessment: Don’t care: To see information of everyone at once, make settings for specific groups like friends and family
  
-6. Interview 6 (Jakob) 
-   * Interviewee Name: 
+5. Interview 5 (Jakob)
+   * Interviewee Name: Joshua Salas
    * Interview Date: 2/16/20
-   * Consumer Segement: 
-   * Key Insights: 
-   * Representative Quote: 
-   * Hypotheses Validated: 
-   * Assessment: Must have / Nice to have / Don’t care:
+   * Consumer Segement: 12 - 18 years old
+   * Key Insights: There is currently too much information at once in social media apps
+   * Representative Quote: "It is difficult to keep track of the many people that I follow."
+   * Hypotheses Validated: There is a desire for being updated on information but more so organization
+   * Assessment: Nice to have: Notifications of current events in my area and traffic
+ 
+6. Interview 6 (Jakob) 
+   * Interviewee Name: Peter Salas
+   * Interview Date: 2/16/20
+   * Consumer Segement: 18 - 26 years old
+   * Key Insights: Other social medias have lots of spam users
+   * Representative Quote: "alot of spam users or even tons and tons of ads."
+   * Hypotheses Validated: There is a desire for being updated on information but more so organization
+   * Assessment: Must have: Spam blocking or even like verification to catch the spam users
  
 7. Interview 7 (Anas) 
    * Interviewee Name: Anas / Waleed, Marzouq 
@@ -95,3 +95,5 @@ For instance a change of phone number or address will notify those following to 
 
  
 # Final Value Proposition and Consumer Segments
+* Our value proposition is that BVOC provides an easier and more automated social media platform with user customized organization
+* Our consumer segement is social media users with large groups of people they want to stay updated about, and users that want a more organized and streamlined feed
