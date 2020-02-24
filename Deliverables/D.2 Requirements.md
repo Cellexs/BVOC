@@ -62,7 +62,7 @@ Social media users that struggle to remember information about the many people t
 Our strategy for developing the Minimum Viable product for our project is going to be requiring the basic functionality of the features we are planning to implement. When the app is opened, all the basics of the features should be available to the user. This includes being able to search and follow people you may know, get notifications when somebody changes their “status”, and for the user to be able to view basic information about the person they follow. For example, their email address, phone number, and inviting people to events. The way we would validate our features by conducting surveys every week and ask users which features they use the most, appreciate the app having the most, and what they think could be improved upon or added. We can also validate our features by possibly releasing a few versions of the app and asking users to try a new version every week, with each version having different features and then asking them to review the version and highlight what the best/worst parts of it is. Once we get enough feedback, we can work on planning changes to our MVP to turn it into our full product to release to users.
 
 # 6.1 Use Case Diagram “Jakob”
-
+![](BVOC_USE_CASES.jpg)
 
 # 6.2 Use Case Descriptions
 Use Case 1 "Aziz"
@@ -73,9 +73,7 @@ Actor: App user
 
 Description: The user writes a message and selects multiple contacts to receive the message
 
-Precondition: The user has an account and logged into the system, and has at least two contacts.
-
-Post-condition: The message is sent form the user, and received by the selected users
+Triggers: The user has an account and logged into the system, and has at least two contacts. The message is sent form the user, and received by the selected users
 
 Main Flow:
 1. The user creates a new group message and writes what he wants in it.
