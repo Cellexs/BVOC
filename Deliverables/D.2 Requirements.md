@@ -59,7 +59,7 @@ Social media users that struggle to remember information about the many people t
 7. Resource Constrained: Testers are limited to following no more than 20 profiles and creating 3 groups at a time
 
 # 5. MVP “Jakob”
-
+Our strategy for developing the Minimum Viable product for our project is going to be requiring the basic functionality of the features we are planning to implement. When the app is opened, all the basics of the features should be available to the user. This includes being able to search and follow people you may know, get notifications when somebody changes their “status”, and for the user to be able to view basic information about the person they follow. For example, their email address, phone number, and inviting people to events. The way we would validate our features by conducting surveys every week and ask users which features they use the most, appreciate the app having the most, and what they think could be improved upon or added. We can also validate our features by possibly releasing a few versions of the app and asking users to try a new version every week, with each version having different features and then asking them to review the version and highlight what the best/worst parts of it is. Once we get enough feedback, we can work on planning changes to our MVP to turn it into our full product to release to users.
 
 # 6.1 Use Case Diagram “Jakob”
 
