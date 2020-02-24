@@ -38,10 +38,25 @@ Social media users that struggle to remember information about the many people t
   - Customers (unhappy users of the app) 
 
 # 3. Functional Requirements “Abdul”
-
+1. Personal Profiles Containing User Information (name, birthday, phone numbers, address, etc)
+2. Follower/Followed Capabilities
+3. Search For Users
+4. Grouping Capabilities For Users
+5. Notifications On Followed User Changes
+6. Mute For Followed User Changes
+7. Update Feed Containing Followed User Changes
+8. Update Feed Sorting Settings (Based On User Groups)
+9. Group Messages For Users
+10. Blocking Users From Following A Profile
 
 # 4. Non-Functional Requirements “Abdul”
-
+1. Flexibility: measured by the number of clicks it takes to find contact information
+2. Performance: measured by the number of seconds it takes to display contact information.
+3. Accessibility: measured by if 4 out of 5 testers can connect to the apps backend from anywhere
+4. Usability: measured by if 4 out of 5 of testers find the menu and options are “visually simple” and easy to navigate
+5. Readability: measured by if 4 out of 5 developers from outside the BVOC team can read the code and understand it
+6. Modularity: compatible with both iOS and Android
+7. Resource Constrained: Testers are limited to following no more than 20 profiles and creating 3 groups at a time
 
 # 5. MVP “Jakob”
 
