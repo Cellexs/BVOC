@@ -1,12 +1,12 @@
-# 1.1. Problem statement “Chris”
+# 1.1. Problem Statement 
 
 The problem of **having a very large amount of active users being followed** affects **heavily active social media users**; the impact of which is **forgetting or missing important information or updates about some of those users.**
 
-# 1.2. Product Position Statement “Chris”
+# 1.2. Product Position Statement
 
 For **social media users** who **struggle to remember information about the many people they follow**, **BVOC is a Social Media App** that **organizes and allows users to heavily customize the information they see and are updated about**, providing **automatic updates of user chosen information, and superior organization.**
 
-# 1.3. Value Proposition “Anas”
+# 1.3. Value Proposition
 
 Value Propostion:
 Our value proposition is that BVOC provides an easier and more automated and organized social media platform to users with large amounts of followers or that desire a superior form of organization through user customized group settings for the main update feed.
@@ -14,7 +14,7 @@ Our value proposition is that BVOC provides an easier and more automated and org
 Consumer Segment:
 Social media users that struggle to remember information about the many people they follow
 
-# 2. Stakeholders “Anas”
+# 2. Stakeholders
 
 - The Project:
   - Contact social media app 
@@ -37,7 +37,7 @@ Social media users that struggle to remember information about the many people t
   - Unknown developers.
   - Customers (unhappy users of the app) 
 
-# 3. Functional Requirements “Abdul”
+# 3. Functional Requirements
 1. Personal Profiles Containing User Information (name, birthday, phone numbers, address, etc)
 2. Follower/Followed Capabilities
 3. Search For Users
@@ -49,7 +49,7 @@ Social media users that struggle to remember information about the many people t
 9. Group Messages For Users
 10. Blocking Users From Following A Profile
 
-# 4. Non-Functional Requirements “Abdul”
+# 4. Non-Functional Requirements
 1. Flexibility: measured by the number of clicks it takes to find contact information
 2. Performance: measured by the number of seconds it takes to display contact information.
 3. Accessibility: measured by if 4 out of 5 testers can connect to the apps backend from anywhere
@@ -58,14 +58,14 @@ Social media users that struggle to remember information about the many people t
 6. Modularity: compatible with both iOS and Android
 7. Resource Constrained: Testers are limited to following no more than 20 profiles and creating 3 groups at a time
 
-# 5. MVP “Jakob”
+# 5. MVP 
 Our strategy for developing the Minimum Viable product for our project is going to be requiring the basic functionality of the features we are planning to implement. When the app is opened, all the basics of the features should be available to the user. This includes being able to search and follow people you may know, get notifications when somebody changes their “status”, and for the user to be able to view basic information about the person they follow. For example, their email address, phone number, and inviting people to events. The way we would validate our features by conducting surveys every week and ask users which features they use the most, appreciate the app having the most, and what they think could be improved upon or added. We can also validate our features by possibly releasing a few versions of the app and asking users to try a new version every week, with each version having different features and then asking them to review the version and highlight what the best/worst parts of it is. Once we get enough feedback, we can work on planning changes to our MVP to turn it into our full product to release to users.
 
-# 6.1 Use Case Diagram “Jakob”
+# 6.1 Use Case Diagram 
 ![](BVOC_USE_CASES.jpg)
 
 # 6.2 Use Case Descriptions
-Use Case 1 "Aziz"
+Use Case 1 
 
 Use case: Send a group message
 
@@ -93,7 +93,7 @@ Alternative Flow:
   2. The use case is restarted. 
   
 
-Use Case 2 "Anas"
+Use Case 2 
 
 Use case: Block Users Account
 
@@ -119,7 +119,7 @@ Alternative Flow:
   4. The app saves the user request to the Database system.
   5. The user can access the contact information and receive notifications. 
   
-Use Case 3 "Abdul"
+Use Case 3 
 
 Use case: View User Information
 
@@ -144,7 +144,7 @@ Alternative Flow:
 3. users can message the followers 
 
   
-Use Case 4 "Chris"
+Use Case 4 
 
 Use case: Invite People to Events
 
@@ -171,7 +171,7 @@ Alternative Flow:
 - Whoever declines the invitation will not be put into the group 
   1. The system will ask for a reason why the other user has declined the invitation
   
-Use Case 5 "Jakob"
+Use Case 5 
 
 Use case: Get a notification when another user changes information in their account
 
@@ -193,7 +193,7 @@ Alternative Flow:
 - The user has the option to mute notifications if they do not wish to receive/see them.
   1. The system blocks the viewing of notifications for that specific user
 
-# 7. User Stories "Aziz"
+# 7. User Stories 
 1. "As a user, I want to be notified so I don’t forget my friends’ birthdays  ." (Priority Level #3, Estimated time: 2 hours)
 2. "As a user, I want to be notified when someone changes their phone number so that I’m updated." (Priority Level #4, Estimated time: 1 hour)
 3. "As a user, I want to send a group message so that I can inform my contacts with only one message ." (Priority Level #8, Estimated time: 2 hours)
@@ -205,7 +205,7 @@ Alternative Flow:
 9. "As a user, I want to create events so that I can gather friends together." (Priority Level #9, Estimated time: 3 hours)
 10. "As a user, I want an easily switchable organization setting so that I can change my update feed quickly, easily and based on my preferences." (Priority Level #7, Estimated time: 4 hours)
 
-# 8. Trello "Aziz"
+# 8. Trello 
 Link to our trello board:
 https://trello.com/b/lAxJkbfM/bvoc
 
