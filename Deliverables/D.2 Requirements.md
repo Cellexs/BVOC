@@ -209,5 +209,7 @@ Alternative Flow:
 Link to our trello board:
 https://trello.com/b/lAxJkbfM/bvoc
 
-Screenshots of the cards: 
-
+Screenshots of the cards:
+![User Stories 1](https://github.com/Cellexs/BVOC/blob/master/User_Stories_1.png)
+![User Stories 2](https://github.com/Cellexs/BVOC/blob/master/User_Stories_2.png)
+![User Stories 3](https://github.com/Cellexs/BVOC/blob/master/User_Stories_3.png)
