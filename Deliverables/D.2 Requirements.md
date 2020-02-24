@@ -68,7 +68,20 @@ Our strategy for developing the Minimum Viable product for our project is going 
 
 
 # 7. User Stories "Aziz"
-
+1. "As a user, I want to be notified so I don’t forget my friends’ birthdays  ." (Priority Level #3, Estimated time: 2 hours)
+2. "As a user, I want to be notified when someone changes their phone number so that I’m updated." (Priority Level #4, Estimated time: 1 hour)
+3. "As a user, I want to send a group message so that I can inform my contacts with only one message ." (Priority Level #8, Estimated time: 2 hours)
+4. "As a user, I want a customizable profile so that I can have that data that I want to share be stored for others to view." (Priority Level #1, Estimated time: 2 hours)
+5. "As a user, I want to only be alerted by the people I choose so that I don't get overwhelmed." (Priority Level #5, Estimated time: 1 hour)
+6. "As a user, I want to group my contacts in personal ways so that I can keep track of certain users." (Priority Level #6, Estimated time: 2 hours)
+7. "As a user, I want to be able to block users from my account so that I can control who views my personal information." (Priority Level #10, Estimated time: 30 min)
+8. "As a user, I want to have a specific profile code so that I add the correct users." (Priority Level #2, Estimated time: 1 hour)
+9. "As a user, I want to create events so that I can gather friends together." (Priority Level #9, Estimated time: 3 hours)
+10. "As a user, I want an easily switchable organization setting so that I can change my update feed quickly, easily and based on my preferences." (Priority Level #7, Estimated time: 4 hours)
 
 # 8. Trello "Aziz"
+Link to our trello board:
+https://trello.com/b/lAxJkbfM/bvoc
+
+Screenshots of the cards: 
 
