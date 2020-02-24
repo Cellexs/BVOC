@@ -65,7 +65,135 @@ Our strategy for developing the Minimum Viable product for our project is going 
 
 
 # 6.2 Use Case Descriptions
+Use Case 1 "Aziz"
 
+Use case: Send a group message
+
+Actor: App user
+
+Description: The user writes a message and selects multiple contacts to receive the message
+
+Precondition: The user has an account and logged into the system, and has at least two contacts.
+
+Post-condition: The message is sent form the user, and received by the selected users
+
+Main Flow:
+1. The user creates a new group message and writes what he wants in it.
+2. The system saves the message and displays the contacts available to choose from.
+3. The user selects the desired contacts.
+4. The system displays the contacts and asks for confirmation.
+5. The user confirms the message and contacts. 
+6. The system sends a copy of the message to the selected contacts.
+
+Alternative Flow:
+- At any time, the user cancels the message
+  1. System asks for confirmation.
+  2. The user confirms cancelation.
+  3. The system cancels the message and goes back to the main page.
+- No contacts found.
+  1. The system asks the user to add contacts first.
+  2. The use case is restarted. 
+  
+
+Use Case 2 "Anas"
+
+Use case: Block Users Account
+
+Actor: User
+
+Description: Users are able to block other user accounts if they do not want to receive any more messages
+
+Triggers: The user can block contact information by selecting the option to block contact information from the list.
+
+Main Flow:
+1. The user selects block from the menu options to ignore the contacts (Block contact information).
+2. The app saves the user request to the Database system.
+3. The user can select any contacts from the menu list.
+4. The system will display a message to the user (You will not be able to receive any more information from this user).
+5. The agreement/confirmation will be sent to the app database.
+6. The app saves the data contact information to the device.
+
+Alternative Flow:
+- At any time the user decides to unblock/cancel the last request. 
+  1. Users can get back to the contacts list to unblock the account.
+  2. App will display a message in the app screen to confirm.
+  3. Users will be able to continue or cancel.
+  4. The app saves the user request to the Database system.
+  5. The user can access the contact information and receive notifications. 
+  
+Use Case 3 "Abdul"
+
+Use case: View User Information
+
+Actor: User
+
+Description: Users are able to see contact information
+
+Triggers: The user invokes a request to view contact information by selecting the option to display contact information on the screen
+
+Main Flow:
+1. The user selects an option on a menu attached to the app screen (“Show contact information” or something similar)
+2. The app sends a request to the Database Interface, requesting the information of all contacts.
+3. The Database Interface accesses the remote database, and queries it for contact information entries.
+4. After all contact information  have been found in the database, the Interface creates an 2-dimensional array of each contact information
+5. The 2D array with the coordinates is sent to the app
+6. The app parses the array, and temporarily saves the data for each contact information to the device
+
+
+Alternative Flow:
+1. the followers information is in an array
+2. the system send the information when the user request it 
+3. users can message the followers 
+
+  
+Use Case 4 "Chris"
+
+Use case: Invite People to Events
+
+Actor: User
+
+Description: Users are able to invite other users to events
+
+Triggers: The user can invite other users that they follow to events and create a group from those that accept the invite
+
+Main Flow:
+1. The user selects the option to invite other users to an event.
+2. The system is ready to receive which contacts it needs to invite to the event
+3. The user enters which contacts(By ID) they want to be invited
+4. The system sends out an invitation to the other users
+5. The other users either accept the invitation or decline it
+6. The system records who accepts and who declines
+
+
+Alternative Flow:
+- Whoever accepts the invitation will be put into a group
+  1. The system establishes a link between those users
+  2. They will be able to message one another
+  3. The system will send the message into the group for everyone to view
+- Whoever declines the invitation will not be put into the group 
+  1. The system will ask for a reason why the other user has declined the invitation
+  
+Use Case 5 "Jakob"
+
+Use case: Get a notification when another user changes information in their account
+
+Actor: User
+
+Description: When another user changes something in their profile or updates their status a notification is sent to every other user that follows the user
+
+Triggers: When a user updates their information or status a notification is created and sent
+
+Main Flow:
+1. The user selects the option to update their information
+2. The system is ready to delete which information is changed
+3. The user enters new information into the textbox
+4. The system updates the information and sends a notification to all the other followers of the user
+
+
+
+Alternative Flow:
+- The user has the option to mute notifications if they do not wish to receive/see them.
+  1. The system blocks the viewing of notifications for that specific user
 
 # 7. User Stories "Aziz"
 1. "As a user, I want to be notified so I don’t forget my friends’ birthdays  ." (Priority Level #3, Estimated time: 2 hours)
