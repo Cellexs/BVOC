@@ -2,19 +2,19 @@
 
 ## Part 1:
 The problem of having a very large amount of active users being followed affects heavily **active social media users**; the impact of which 
-is forgetting or missing important ***information*** or **updates** about some of those **users**. For **social media users** who struggle to remember 
-***information*** about the many **people they follow**, BVOC is a Social Media App that ***organizes*** and allows **users** to heavily **customize** the 
-**information** they **see** and are **updated** about, providing **automatic updates** of **user ***chosen*** information**, and superior **organization**. Our value 
-proposition is that BVOC provides an easier, more **automated** and more **organized** social media platform to **users** with large amounts of 
-**followers** or that desire a superior **form of organization** through **user** ***customized group settings*** for the **main update feed**.
+is forgetting or missing important ***information*** ~~or~~ **updates** ~~about~~ some of those **users**. For **social media users** who struggle to remember 
+***information*** ~~about~~ the many **people they follow**, BVOC is a Social Media App that ***organizes*** and ~~allows~~ **users** to ~~heavily~~ **customize** ~~the~~ 
+**information** ~~they~~ **see** and ~~are~~ **updated** about, ~~providing~~ **automatic updates** ~~of~~ **user ***chosen*** information**, and ~~superior~~ **organization**. Our value 
+proposition is that BVOC provides an easier, ~~more~~ **automated** and ~~more~~ **organized** social media platform to **users** with large amounts of 
+**followers** or that desire a superior **form of organization** through **user** ***customized group settings*** ~~for~~ the **main update feed**.
 
-  The app needs to be able to link to a **database** that allows users to make **profiles** with **fields** that contain information that the users 
-want other users to know about themselves. A **time** system needs to be in place that constantly checks to see if **fields** (like birthdays) or 
-**events** are approaching. If they are then **time** needs to notify **message**, which can then send an update to the necessary **profiles**. If the 
-update is being made to an event, then **message** should find the **group** that relates to that **event** and update all the associated **profiles** 
-through a **group message**. **Profile**’s also need to be able to create ***groups***. When a **profile** gets updated via **message** then profile’s ***history*** 
-should be updated to retain that **message**, and the user’s device should receive a push notification. When the user logs in to their **profile** 
-to view the **message**, then it should **display** all **history** of the account in a feed.
+  The app needs to be able to link to a **database** that ~~allows users~~ to make **profiles** ~~with~~ **fields** that contain information that the users 
+want other users to know about themselves. A **time** system needs to be in place that ~~constantly checks~~ to see if **fields** (like birthdays) ~~or~~ 
+**events** are approaching. If they are then **time** needs to ~~notify~~ **message**, which can then ~~send an update~~ to the necessary **profiles**. If the 
+update is being made to an event, then **message** should ~~find~~ the **group** that ~~relates~~ to that **event** and ~~update all the associated~~ **profiles** 
+~~through~~ a **group message**. **Profile**’s also need to be able to ~~create~~ ***groups***. When a **profile** gets ~~updated~~ via **message** then **profile’s** ***history*** 
+should be ~~updated~~ to retain that **message**, and the user’s device should receive a push notification. When the user logs in to their **profile** 
+to ~~view~~ the **message**, then it ~~should~~ **display** ~~all~~ **history** of the account in a feed.
 
 **Social Media Users/Users/Followers** - refers to our Profile Class
 
