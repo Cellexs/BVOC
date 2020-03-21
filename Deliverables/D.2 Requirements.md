@@ -62,7 +62,7 @@ Social media users that struggle to remember information about the many people t
 Our strategy for developing the Minimum Viable product for our project is going to be requiring the basic functionality of the features we are planning to implement. When the app is opened, all the basics of the features should be available to the user. This includes being able to search and follow people you may know, get notifications when somebody changes their “status”, and for the user to be able to view basic information about the person they follow. For example, their email address, phone number, and inviting people to events. The way we would validate our features by conducting surveys every week and ask users which features they use the most, appreciate the app having the most, and what they think could be improved upon or added. We can also validate our features by possibly releasing a few versions of the app and asking users to try a new version every week, with each version having different features and then asking them to review the version and highlight what the best/worst parts of it is. Once we get enough feedback, we can work on planning changes to our MVP to turn it into our full product to release to users.
 
 # 6.1 Use Case Diagram 
-![BVOC Case Diagram](https://github.com/Cellexs/BVOC/blob/master/BVOC_Use_Cases.jpg)
+![BVOC Case Diagram](https://github.com/Cellexs/BVOC/blob/master/Pictures/BVOC_Use_Cases.jpg)
 
 # 6.2 Use Case Descriptions
 Use Case 1 
@@ -211,6 +211,6 @@ https://trello.com/b/lAxJkbfM/bvoc
 
 Screenshots of the cards:
 
-![User Stories 1](https://github.com/Cellexs/BVOC/blob/master/User_Stories_1.png)
-![User Stories 2](https://github.com/Cellexs/BVOC/blob/master/User_Stories_2.png)
-![User Stories 3](https://github.com/Cellexs/BVOC/blob/master/User_Stories_3.png)
+![User Stories 1](https://github.com/Cellexs/BVOC/blob/master/Pictures/User_Stories_1.png)
+![User Stories 2](https://github.com/Cellexs/BVOC/blob/master/Pictures/User_Stories_2.png)
+![User Stories 3](https://github.com/Cellexs/BVOC/blob/master/Pictures/User_Stories_3.png)
