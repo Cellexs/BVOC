@@ -25,7 +25,7 @@ to ~~view~~ the **message**, then it ~~should~~ **display** ~~all~~ **history** 
 **Updates/Automated** - refers to our Time Class
 
 ## Part 2:
-![UML Diagram](https://github.com/Cellexs/BVOC/blob/master/UML.png)
+![UML Diagram](https://github.com/Cellexs/BVOC/blob/master/Pictures/UML.png)
 
 ## Part 3:
 
