@@ -24,7 +24,7 @@ public class Profile
 	
 	Group[] profileGroup;*/
 	
-	History[] profileHistory;
+	History profileHistory = new History();
 	
 	public Profile(String name, String password)
 	   {
