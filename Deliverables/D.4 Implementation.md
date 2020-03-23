@@ -74,5 +74,7 @@ We went with a very simple UI that would make sending POST and FORM requests muc
 
 9. Lessons Learned
 
+We learned that setting up POST and FORM requests that can send data between our server and our app is much more difficult than we anticipated. We also learned that not being able to meet as a group highly affected our ability to work. We couldn't even get a hold of two of our members. Also, we need to make sure to start with the requirements that you set out. From our test it seems like getting our repository to correctly transfer to Docker, was pretty rough.
+
 10. Demo
 We have no working demo at the moment.
