@@ -1,31 +1,39 @@
 
-public class Times 
+package bevocapp;
+import java.util.TimerTask;
+import java.util.Date;
+import java.util.Timer;
+
+
+
+public class TrickTimerTask extends TimerTask
 { 
-    public static void main (String[] args) 
+    
+    public void TimeRunning()
     {
-        boolean timeT = true;
-        long showMim = 0;
-        long timebegin = currentTimeMillis();
-        System.out.println("Time runing : ");
-       
-        while( timeT )
-        {
-            try {
-                TimeUnit.SECONDS.sleep(1);
-                long timeGone  = currentTimeMillis() - timebegin ;
-                long secTime = timeGone/1000;
-                
-                if( secTime == 60)
-                {
-                    secTime = 0;
-                    timebegin = currentTimeMillis();
-                }
-                if( secTime == 60 )
-                    showMim++;
-                System.out.println(showMim+":"+secTime);
-            } catch (InterruptedException ex) {
-                Logger.getLogger(Times.class.getName()).log(Level.SEVERE, null, ex);
-            }
+        try {
+            Thread.sleep(1);
+        } catch (InterruptedException f) {
+            f.printStackTrace();
         }
+    }
+        public static void main (String args[])
+        {
+        TimerTask trickerTimer = new TrickTimerTask();
+        Timer timer = new Timer( true );
+	timer.scheduleAtFixedRate( trickerTimer, 1,1*1000);
+	System.out.println( " Started Time " );
+        try {
+               Thread.sleep(100000000);
+        } catch (InterruptedException f){
+            f.printStackTrace();
+        }
+        
+    }
+    @Override
+    public void run() {
+        System.out.println( new Date());
+        TimeRunning();
+        System.out.println( new Date());
     }
 }
