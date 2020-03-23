@@ -65,8 +65,8 @@ License link: https://github.com/Cellexs/BVOC/blob/master/LICENSE
 Contributing link: 
 
 8. Look and Feel
-![Registration](https://github.com/Cellexs/BVOC/blob/master/Pictures/UML.png)
-![Login](https://github.com/Cellexs/BVOC/blob/master/Pictures/UML.png)
+![Registration](https://github.com/Cellexs/BVOC/blob/master/Pictures/Reg.PNG)
+![Login](https://github.com/Cellexs/BVOC/blob/master/Pictures/log.PNG)
 
 We went with a very simple UI that would make sending POST and FORM requests much easier on the team. We also decided that we would have buttons leading to individual pages for each of our unique situations.
 
