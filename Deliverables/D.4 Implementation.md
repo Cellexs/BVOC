@@ -61,8 +61,10 @@ they would like, which is something as a team we are all okay with.
 7. Readme File
 
 Code of Conduct link: https://github.com/Cellexs/BVOC/blob/master/CODE_OF_CONDUCT.md
+
 License link: https://github.com/Cellexs/BVOC/blob/master/LICENSE
-Contributing link: 
+
+Contributing link: https://github.com/Cellexs/BVOC/blob/master/CONTRIBUTING.md
 
 8. Look and Feel
 
