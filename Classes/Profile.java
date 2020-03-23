@@ -33,37 +33,29 @@ public class Profile
 	   }
 	
 	// Adds a follower to the profile's followed
-	public boolean addFollower(Profile newFollower)
+	public void addFollower(Profile newFollower)
 	   {
 			if (followedSize > followedCap)
 			{
 				resize();
-				
-				followed[followedSize] = newFollower;
-				
-				followedSize++;
-			
-				return true;
 			}
-		
-			return false;
+			
+			followed[followedSize] = newFollower;
+			
+			followedSize++;
 	   }
 	
 	// Adds a field to the profile's fields
-	public boolean addField(Profile newFollower)
+	public void addField(Field newField)
 	   {
-			if (followedSize > followedCap)
+			if (fieldSize > fieldCap)
 			{
 				resize();
-				
-				followed[followedSize] = newFollower;
-				
-				followedSize++;
-			
-				return true;
 			}
-		
-			return false;
+
+			fields[fieldSize] = newField;
+			
+			fieldSize++;
 	   }
 	
 	/*public boolean createGroup(String profileName, Group[] profileGroup)
@@ -111,4 +103,5 @@ public class Profile
 			fields = tempArray;
 		}
 	}
+	
 }
