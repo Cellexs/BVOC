@@ -43,7 +43,7 @@ a. The server sends back a failure response
 
 b. The system displays the failure response to the user
 
-![Sequence Diagram](https://github.com/Cellexs/BVOC/blob/master/Pictures/D5_Seq.PNG)
+![Sequence Diagram](https://github.com/Cellexs/BVOC/blob/master/Pictures/D5_Seq.png)
 
 # 5. Design Patterns 
 Strategy Design Patterns 
