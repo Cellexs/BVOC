@@ -17,8 +17,7 @@ Description: Users are able to add a field containing data they want their follo
 
 Pre-conditions: The user has logged into their account and been verified by firebase and the server
 
-Post-conditions:
-The user’s profile will have their field saved in the database and their followers can view it
+Post-conditions: The user’s profile will have their field saved in the database and their followers can view it
 
 Main Flow:
 1. The user navigates to the create field portion of the user interface
@@ -43,7 +42,8 @@ b. The system displays the previous page the user was on back to the user
 a. The server sends back a failure response
 
 b. The system displays the failure response to the user
-     
+
+![Sequence Diagram](https://github.com/Cellexs/BVOC/blob/master/Pictures/D5_Seq.PNG)
 
 # 5. Design Patterns 
 Strategy Design Patterns 
