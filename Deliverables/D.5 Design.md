@@ -70,14 +70,19 @@ Composite pattern:
 ![Composite Pattern](https://github.com/Cellexs/BVOC/blob/master/Pictures/Composite_Pattern.png)
 
 # 6. Design Principles
-	Single Responsibility Principle: 
+Single Responsability Principle:
+
 Profiles class stores the users data in the database 
 
 Open/Closed Principle:
+
 History class all the messages sent to a user
 
-Liskov Substitution Principle: 
+Liskov Substitution Principle:
+
 Field class containing user data for the followers to be updated
 
-	Interface Segregation Principle:
+Interface Segregation Principle:
+
+
 
