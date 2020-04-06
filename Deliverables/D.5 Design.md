@@ -70,19 +70,28 @@ Composite pattern:
 ![Composite Pattern](https://github.com/Cellexs/BVOC/blob/master/Pictures/Composite_Pattern.png)
 
 # 6. Design Principles
-Single Responsability Principle:
+## Single Responsibility Principle: 
+The principle states that classes should only do one thing for the sake of readability, low coupling and high cohesion.
+Profile encapsulates the data from all the other class objects into a single place for easy access, each individual object in the profile is tasked with management of itself.
 
-Profiles class stores the users data in the database 
+## Open/Closed Principle:
 
-Open/Closed Principle:
+The principle states that a class should be able to be extended without the need for modification.
 
-History class all the messages sent to a user
+We plan on implementing a case class with a process() that is extended by many of our object storing classes, each of which will override the process() method and perform the necessary functions for adding data to the class.
 
-Liskov Substitution Principle:
+## Liskov Substitution Principle: 
+The principle states that objects in the program should be replaceable by their subtypes for reusable code and flexibility.
 
-Field class containing user data for the followers to be updated
+We actually had the thought during implementation to create a case class that would allow us to greatly minimize the code and increase readability. The example for our case class is actually what we used for our strategy pattern. What the case class will do is provide an overarching object type that can apply to all of the data storing objects that might need to be accessed when data is entered into the system. By having the class it allows us to just make methods that can take a case object rather than a message or field object.
 
-Interface Segregation Principle:
+## Interface Segregation Principle:
+The principle states that interfaces should be split into smaller and more specific interfaces that encompass only things that relate together.
 
+So far we haven't seen a massive need for interfaces in our design so the one interface we have does very little. It's more based around the ease of being able to use a case object in places rather than writing the same code for individual classes.
 
+## Dependency Inversion Policy:
 
+The principle states that objects that interact shouldn't be based on the object they interact with, but instead both objects should utilize an interface.
+
+This is an issue our code probably has, we could probably make a general interface for our data objects, that has general use methods like parse data.
