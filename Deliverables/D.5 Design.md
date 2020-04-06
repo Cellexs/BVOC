@@ -1,12 +1,16 @@
 # 1. Description
-BVOC is a software that provides a more attention free version of social media. It allows users to add each other and for each user to create an account of their own, which if they update, will inform all users following that account about the change. For instance, a change of phone number or address will notify those
-following to the new location or number.
+
+BVOC’s system utilizes a front end interface for users to navigate through and interact with the database through. Upon signing in they will enter their login credentials and we validate them through an external system called firebase, and we retrieve their user ID. That user ID is then sent to our servlet Database class that processes http requests, where we can access our database and locate their account. Any other processes done in the app also sends requests to the server which can identify the needed task and act accordingly with the data sent with the request.
 
 # 2. Architecture
+
+![Package Diagram](https://github.com/Cellexs/BVOC/blob/master/Pictures/Pack_Dia.png)
 
 We have designed it so when the user gets on the system first gets authenticated by Firebase and then verified with database content, then sent to the main UI page in the Java package. The main page has been linked to the other sub-pages, and all of them use the resources package that contains the xml files for the UI, fonts, strings, etc.
 
 # 3. Class Diagram
+
+![Class Diagram](https://github.com/Cellexs/BVOC/blob/master/Pictures/UML_Dia_D5.jpg)
 
 # 4. Sequence Diagram
 Use Case: Add a Field to a Profile
@@ -48,6 +52,7 @@ b. The system displays the failure response to the user
 # 5. Design Patterns 
 Strategy Design Patterns 
 
+![Strategy Pattern](https://github.com/Cellexs/BVOC/blob/master/Pictures/Strategy_Pattern.png)
 
 Database: https://github.com/Cellexs/BVOC/blob/master/Classes/Database.java
 Message: https://github.com/Cellexs/BVOC/blob/master/Classes/Message.java
@@ -56,19 +61,13 @@ Field: https://github.com/Cellexs/BVOC/blob/master/Classes/Field.java
 History: https://github.com/Cellexs/BVOC/blob/master/Classes/History.java
 Time: https://github.com/Cellexs/BVOC/blob/master/Classes/Time.java
 
-
-
-
-
-
  Singleton Design Patterns : 
 
-
-
-
+![Singleton Pattern](https://github.com/Cellexs/BVOC/blob/master/Pictures/Singleton_Pattern.png)
 
 Composite pattern: 
 
+![Composite Pattern](https://github.com/Cellexs/BVOC/blob/master/Pictures/Composite_Pattern.png)
 
 # 6. Design Principles
 	Single Responsibility Principle: 
