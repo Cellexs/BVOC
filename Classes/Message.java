@@ -1,6 +1,6 @@
 package BVOC_package;
 
-public class Message
+public class Message extends Case
 {
 	// The name of the person that sent the message
 	Profile sender;
