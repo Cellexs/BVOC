@@ -1,8 +1,8 @@
-# Introduction:
+# 1. Introduction:
 The problem of having a very large amount of active users being followed affects heavily active social media users; the impact of which is forgetting or missing important information or updates about some of those users. For social media users who struggle to remember information about the many people they follow, BVOC is a Social Media App that organizes and allows users to heavily customize the information they see and are updated about, providing automatic updates of user chosen information, and superior organization. Our value proposition is that BVOC provides an easier, more automated and more organized social media platform to users with large amounts of followers or that desire a superior form of organization through user customized group settings for the main update feed.
 GitHub Repository: https://github.com/Cellexs/BVOC 
 Trello: https://trello.com/b/lAxJkbfM/bvoc
-# Implemented Requirements:
+# 2. Implemented Requirements:
 The requirements that we implemented for this release include the better security, creation of groups, group messaging, and the creation of events. We also got very close to being able to actually have our app function through post requests from the application to the application server, but we couldn’t find a way to get our java servlet class correctly linked to the domain. 
 Group Messaging
 Link to trello card user story: https://trello.com/c/eZ99outp
