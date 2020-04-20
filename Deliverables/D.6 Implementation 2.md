@@ -13,29 +13,59 @@ The requirements that we implemented for this release include the better securit
 
 
 Group Messaging
+
+
 Link to trello card user story: https://trello.com/c/eZ99outp
+
+
 Implemented by: Chris Cisneros
+
+
 Link to Pull Request: https://github.com/Cellexs/BVOC/pull/43
+
+
 Received and Reviewed by: Aziz Alfort
+
+
 Screenshot: We don't have a working build nor is this feature incredibly showable. It displays like any other message object.
 
 
 Groups and Events
+
+
 Link to trello card user story: https://trello.com/c/T1HdqHCu 
+
+
 Implemented by: Jakob Nelson
+
+
 Link to Pull Requests: https://github.com/Cellexs/BVOC/pull/26
 			https://github.com/Cellexs/BVOC/pull/25
+
+
 Received and Reviewed by: Chris Cisneros
+
+
 Screenshot: We don't have a working build.
 
 
 
 Security and Personal IDs
+
+
 Link to trello card user story: https://trello.com/c/UuL9oMzq 
+
+
 Implemented by: Abdulaziz Alfort
+
+
 Link to Pull Requests: https://github.com/Cellexs/BVOC/pull/30
 			https://github.com/Cellexs/BVOC/pull/37
+
+
 Received and Reviewed by: Chris Cisneros
+
+
 Screenshot: 
 
 
