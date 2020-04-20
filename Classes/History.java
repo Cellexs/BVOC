@@ -1,6 +1,6 @@
 package BVOC_package;
 
-public class History 
+public class History
 {
 	final int DEFAULT = 10;
 	
