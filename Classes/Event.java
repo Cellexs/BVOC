@@ -1,5 +1,7 @@
+package BVOC_package;
+
 public class Event extends Group
-   {
+{
 	public String eventName;
 
 	public String eventLocation;
@@ -12,7 +14,7 @@ public class Event extends Group
 	public Event(String name, String location, String time, Profile[] profiles)
 	   {
 	   	eventName = name;
-	   	eventPlace = location;
+	   	eventLocation = location;
 	   	timeOfEvent = time;
 	   	involvedProfiles = profiles;
 	   }
@@ -21,4 +23,4 @@ public class Event extends Group
 	   {
 	   	return addProfileToArray(profile, involvedProfiles);
 	   }
-   }
+}
