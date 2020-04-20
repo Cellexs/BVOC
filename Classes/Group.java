@@ -1,15 +1,22 @@
-public class Group 
-   {
-   	public String groupName;
+package BVOC_package;
 
-   	Profile creator;
+public class Group extends Case
+{
+	public String groupName;
 
-	private int DEFAULT_CAPACITY = 5;
+	Profile creator;
 
-	private Profile[] groupArray = new Profile[DEFAULT_CAPACITY];
+	public int DEFAULT_CAPACITY = 5;
 
 	private int size = 0;
+	
+	private Profile[] groupArray = new Profile[DEFAULT_CAPACITY];
 
+	public Group()
+	{
+		
+	}
+	
 	public Group(String name, Profile owner)
 	   {
 	   	groupName = name;
@@ -33,6 +40,8 @@ public class Group
 	   	return addProfileToArray(profile, groupArray);
 	   }
 
-
-
-   }
+	public int getSize()
+	{
+		return size;
+	}
+}
