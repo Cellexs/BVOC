@@ -1,107 +1,51 @@
 package BVOC_package;
 
-public class Profile
+public class Profile extends Case
 {
 	final int DEFAULT = 10;
 	
+	final int DEFAULT_GROUP_EVENT_LIMIT = 3;
+	
 	String profileName;
 	
-	String profilePassword;
+	String profileID;
 	
 	Profile[] followed = new Profile[DEFAULT];
+	
+	Field[] fields = new Field[DEFAULT];
+	
+	Group[] groups = new Group[DEFAULT_GROUP_EVENT_LIMIT];
+	
+	Event[] events = new Event[DEFAULT_GROUP_EVENT_LIMIT];
+	
+	History profileHistory = new History();
 	
 	// Tracks the size and capacity of the follower array
 	int followedSize = 0;
 	int followedCap = DEFAULT;
 	
-	Field[] fields = new Field[DEFAULT];
-	
 	// Tracks the amount of fields the account has
 	int fieldSize = 0;
 	int fieldCap = DEFAULT;
 	
-	/*Event[] event;
+	// Tracks the amount of groups the account has
+	int groupsSize = 0;
+	int groupsCap = DEFAULT_GROUP_EVENT_LIMIT;
 	
-	Group[] profileGroup;*/
+	// Tracks the amount of events the account has
+	int eventsSize = 0;
+	int eventsCap = DEFAULT_GROUP_EVENT_LIMIT;
 	
-	History profileHistory = new History();
-	
-	public Profile(String name, String password)
-	   {
-		profileName = name;
-		profilePassword = password;	
-	   }
-	
-	// Adds a follower to the profile's followed
-	public void addFollower(Profile newFollower)
-	   {
-			if (followedSize > followedCap)
-			{
-				resize();
-			}
-			
-			followed[followedSize] = newFollower;
-			
-			followedSize++;
-	   }
-	
-	// Adds a field to the profile's fields
-	public void addField(Field newField)
-	   {
-			if (fieldSize > fieldCap)
-			{
-				resize();
-			}
-
-			fields[fieldSize] = newField;
-			
-			fieldSize++;
-	   }
-	
-	/*public boolean createGroup(String profileName, Group[] profileGroup)
-	   {
-		return true;
-	   }
-	   
-	public boolean createEvent()
-	   {
-	    return true;
-	   }*/
-	
-	public void resize()
+	public Profile(String name, String id)
 	{
-		int newCap;
-		int arrDex;
-		
-		// Resizes followed if needed
-		if (followedSize > followedCap)
-		{
-			newCap = followedCap * 2;
-			
-			Profile[] tempArray = new Profile[newCap];
-			
-			for(arrDex = 0; arrDex < followedSize; arrDex++)
-			{
-				tempArray[arrDex] = followed[arrDex];
-			}
-			
-			followed = tempArray;
-		}
-		
-		// Resizes followed if needed
-		if (fieldSize > fieldCap)
-		{
-			newCap = fieldCap * 2;
-			
-			Field[] tempArray = new Field[newCap];
-			
-			for(arrDex = 0; arrDex < followedSize; arrDex++)
-			{
-				tempArray[arrDex] = fields[arrDex];
-			}
-			
-			fields = tempArray;
-		}
+		profileName = name;
+		profileID = id;
 	}
 	
+	// Sends the profile's data as ProfileName/ ProfileID/ FollowerCount/ GroupCount
+	public String toString(Profile profile)
+	{
+		String response = profileName + "/ " + profileID + "/ Followed: " + profile.followedSize + "/ Groups: " + profile.eventsSize;
+		return response;
+	}
 }
