@@ -7,7 +7,12 @@ public class Message extends Case
 	
 	// The text that was sent
 	String text;
-
+	
+	public Message()
+	{
+		
+	}
+		
 	// Constructor that creates a message object
 	public Message(Profile profile, String message)
 	{
