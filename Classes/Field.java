@@ -1,6 +1,6 @@
 package BVOC_package;
 
-public class Field 
+public class Field extends Case
 {
 	// User entered name for the field
 	String name;
