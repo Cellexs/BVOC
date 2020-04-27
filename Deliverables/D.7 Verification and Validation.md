@@ -21,7 +21,7 @@ https://github.com/Cellexs/BVOC/blob/master/ClassTests/ProfileTest.java
 
 	2.1.4 Screenshot to the result of unit test execution:
 
-![Unit Screenshot](https://github.com/Cellexs/BVOC/blob/master/Pictures/log.PNG)
+![Unit Screenshot](https://github.com/Cellexs/BVOC/blob/master/Pictures/UnitTest.png)
 		
 ## 2.2 Integration Test
  
@@ -45,7 +45,7 @@ https://github.com/Cellexs/BVOC/blob/master/ClassTests/TestITSuite.java
   
 	2.2.4 Screenshot to the result of integration test execution:
 
-![Integration Screenshot](https://github.com/Cellexs/BVOC/blob/master/Pictures/log.PNG)
+![Integration Screenshot](https://github.com/Cellexs/BVOC/blob/master/Pictures/IntegrationTest.PNG)
 		
 ## 2.3 Acceptance
 	
