@@ -21,6 +21,7 @@ https://github.com/Cellexs/BVOC/blob/master/ClassTests/ProfileTest.java
 
 	2.1.4 Screenshot to the result of unit test execution:
 
+
 		
 ## 2.2 Integration Test
  
@@ -43,16 +44,12 @@ https://github.com/Cellexs/BVOC/tree/master/ClassTests
 https://github.com/Cellexs/BVOC/blob/master/ClassTests/TestITSuite.java 
   
 	2.2.4 Screenshot to the result of integration test execution:
+
+
 		
 ## 2.3 Acceptance
 	
-	2.3.1
-	
-	2.3.2
-	
-	2.3.3
-	
-	2.3.4
+We have no way of connecting our UI frontend to the backend of the system, so we arent able to perform these tests.
 
 # Validation
 ## Script:
