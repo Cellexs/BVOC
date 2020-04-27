@@ -6,7 +6,7 @@ The problem of having a very large amount of active users being followed affects
 
 ## 2.1 Unit Test
 
-  2.1.1 Test Framework: JUnit
+  	2.1.1 Test Framework: JUnit
   
 	2.1.2 Link to Github folder where test classes are located: https://github.com/Cellexs/BVOC/tree/master/ClassTests
   
@@ -16,7 +16,7 @@ The problem of having a very large amount of active users being followed affects
 		
 ## 2.2 Integration Test
  
-  2.2.1 Test Framework: JUnit
+  	2.2.1 Test Framework: JUnit
   
 	2.2.2
   
@@ -25,10 +25,14 @@ The problem of having a very large amount of active users being followed affects
 	2.2.4
 		
 ## 2.3 Acceptance
-	2.3.1	
-	2.3.2	
-	2.3.3	
-	2.3.4	
+	
+	2.3.1
+	
+	2.3.2
+	
+	2.3.3
+	
+	2.3.4
 
 # Validation
 ## Script:
