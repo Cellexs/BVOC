@@ -60,7 +60,7 @@ First User: Adam Tatlock
 4.       9, pretty much all you need is here, group message option is nice as well
 5.       5, again I’m a little annoyed with user ID stuff, I feel names would be easier
 6.       8, nice display of messages but I wish it would say the time for when I received messages
-7.       9, There was almost no confusion getting places but the many different pages for each thing felt kind of annoying, could have been better grouped
+7.       9, best part was there was almost no confusion getting places but worst part was the many different pages for each thing felt kind of annoying, could have been better grouped
  
 Second User: Konnor Williams
 1.       8, nice colors and clear buttons
@@ -69,7 +69,7 @@ Second User: Konnor Williams
 4.       10, pick the person and send the message, super easy and straightforward
 5.       7, I appreciate being able to make groups for friends and family, but the user IDs are annoying to get and remember
 6.       6, the display is pretty simple, it’s just messages with no time received or quick response stuff
-7.       8, it was super easy to navigate but I wish more of the related things were easier to access
+7.       8, best part was that it was super easy to navigate, worst part was that a bunch of things that could have been in one place for easy access were spread out
  
 Third User: Joshua Salas
 1.       6, it looks really basic, nothing that’s makes me remember it
@@ -78,7 +78,7 @@ Third User: Joshua Salas
 4.       8, its pretty good but not being able to pick everyone who receives the message on the fly kind of sucks
 5.       7, needs the search by name feature here as well or to just add people from the people you follow
 6.       6, very bare bones display again, just feels like its missing to many quality of life features
-7.       8, it was easy to navigate but felt like some things could be displayed together, like there was no need to go to a new page for some things
+7.       8, best was it was easy to navigate but felt like some things could be displayed together, worst part was there was no need to go to a new page for some things
 
 ## Reflections:
 Overall, we think the app did pretty good. A bunch of the complaints we got were things that we could push out with further updates and time. The biggest complaint that we got was the user ID system that we have in place. Not being able to make your own user ID makes it difficult for users to remember and rather annoying for following profiles and adding them to groups. A search by name feature to find users that you don’t have easy contact to in real life seems to be another common request. Other complaints were centered around the display lacking features, like it being a little basic, there being a lot of separate pages, and general information being missing i.e. time and things like that. People for the most part. When we ran mock simulations for the backend. All the data was added correctly and when we used android studio to navigate pages all the buttons navigated to the correct pages. Our value proposition however was not met, we weren’t even able to create a working version of contacts, much less an automatic update version. We never got the chance to try working with android push notifications and trying to get a time class that correctly sends out notifications a certain amount of time before corresponding dates pass. We had a rough time with this project, especially trying to get the different parts talking to each other since a few of us working primarily on the server and frontend were using software and class types that we had never used before.
