@@ -10,19 +10,34 @@ The problem of having a very large amount of active users being followed affects
   
 	2.1.2 Link to Github folder where test classes are located: https://github.com/Cellexs/BVOC/tree/master/ClassTests
   
-	2.1.3
-  
-	2.1.4
+	2.1.3 In this test case we created a mock object that tests profile class.
+		Link to the class being tested: 
+https://github.com/Cellexs/BVOC/blob/master/Classes/Profile.java
+		
+		Link to the test: 
+https://github.com/Cellexs/BVOC/blob/master/ClassTests/ProfileTest.java
+
+	2.1.4 Screenshot to the result of unit test execution:
+
 		
 ## 2.2 Integration Test
  
   	2.2.1 Test Framework: JUnit
   
-	2.2.2
+	2.2.2 Link to the folder where the automated tests located: https://github.com/Cellexs/BVOC/tree/master/ClassTests
+
+	2.2.3 The integration test include the following classes:
+		-  Profile.java
+		- Event.java
+		- Field.java
+		- Group.java
+		- GroupMessage.java
+		- History.java
+		- Message.java
+		Link to Github integration test:
+		https://github.com/Cellexs/BVOC/blob/master/ClassTests/TestITSuite.java
   
-	2.2.3	
-  
-	2.2.4
+	2.2.4 Screenshot to the result of integration test execution:
 		
 ## 2.3 Acceptance
 	
